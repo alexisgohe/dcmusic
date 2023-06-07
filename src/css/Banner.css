@@ -1,0 +1,33 @@
+.banner_container {
+  background-image: url("../data/macaco.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  padding: 80px 40px;
+}
+
+.banner_text {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  padding: 20px;
+}
+
+.span_banner{
+  font-size: 2rem;
+  margin: 15px 0;
+}
+
+.p_banner{
+  text-align: justify;
+  font-size: 1rem;
+  padding: 0 30px 0 0;
+}
+
+.banner_videocard {
+  padding: 20px;
+  width: 50%;
+}

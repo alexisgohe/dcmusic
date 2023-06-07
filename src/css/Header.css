@@ -1,0 +1,19 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px;
+  background-color: #18181b;
+  border-bottom: 2px solid #a970ff;
+}
+
+.nav_logo {
+  display: flex;
+  align-items: center;
+  font-family: "Sedgwick Ave Display", cursive;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.logo_nav {
+  height: 2.8125rem;
+}
